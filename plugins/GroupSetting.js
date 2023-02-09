@@ -1,8 +1,12 @@
 "use strict"
 const { segment } = require("oicq")
 const { bot } = require("../index")
-
-const Admin_Group_Id = 591171738;
+//需要管理的群
+const Admin_Group_Id = 1;
+//主人QQ
+const Admin_Id = 1;
+//签到黑名单
+const Sign_Blacklist_Id = [1];
 // 违禁词惩罚
 bot.on("message.group", async function sensitive(msg) {
   let Arr = [/彩票/g, /资料墙/g, /校园墙/g];//发言违禁词
