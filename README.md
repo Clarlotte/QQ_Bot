@@ -16,5 +16,6 @@
 4. 执行 `npm run dev` 启动程序
 
 [码云项目地址](https://gitee.com/clarlotte/qq_bot)
+以码云更新为准，此处佛系更新
 
 
