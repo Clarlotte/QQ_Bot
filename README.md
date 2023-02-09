@@ -15,6 +15,6 @@
 3. 将 index.js 第二行 `const account = 0` 中的0改为你自己的账号
 4. 执行 `npm run dev` 启动程序
 
-[马云项目地址](https://gitee.com/clarlotte/qq_bot)
+[码云项目地址](https://gitee.com/clarlotte/qq_bot)
 
 
